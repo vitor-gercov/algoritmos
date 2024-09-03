@@ -6,7 +6,7 @@
 
 // Solução:
 
-var somaDeDoisNumeros = function (numeros, valorAlvo) {
+function somaDoisValoresArray(numeros, valorAlvo) {
     // Cria um hashMap
     let hashMap = {};
 
